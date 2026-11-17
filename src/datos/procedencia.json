@@ -1,0 +1,43 @@
+{
+  "serie": {
+    "fuente": "Ministerio del Interior, Portal Estadístico de Criminalidad: hechos conocidos de cibercriminalidad por grupo penal (tabla 05001)",
+    "url": "https://estadisticasdecriminalidad.ses.mir.es/sec/jaxiPx/files/_px/es/csv_bdsc/Datos5/l0/05001.csv_bdsc",
+    "licencia": "Reutilización permitida citando la fuente (aviso legal del Portal Estadístico de Criminalidad)",
+    "descargado": "2026-11-17",
+    "nota": "Hasta 2014 no incluye datos de Mossos d'Esquadra ni Ertzaintza: la serie se usa desde 2015. Hechos conocidos por las fuerzas de seguridad, no delitos cometidos"
+  },
+  "esclarecidos": {
+    "fuente": "Ministerio del Interior, Portal Estadístico de Criminalidad: hechos conocidos de cibercriminalidad por grupo penal (tabla 05001); Ministerio del Interior, Portal Estadístico de Criminalidad: hechos esclarecidos de cibercriminalidad (tabla 05005)",
+    "url": "https://estadisticasdecriminalidad.ses.mir.es/sec/jaxiPx/files/_px/es/csv_bdsc/Datos5/l0/05001.csv_bdsc",
+    "licencia": "Reutilización permitida citando la fuente (aviso legal del Portal Estadístico de Criminalidad)",
+    "descargado": "2026-11-17",
+    "nota": "Hasta 2014 no incluye datos de Mossos d'Esquadra ni Ertzaintza: la serie se usa desde 2015. Hechos conocidos por las fuerzas de seguridad, no delitos cometidos"
+  },
+  "edades": {
+    "fuente": "Ministerio del Interior, Portal Estadístico de Criminalidad: victimizaciones de cibercriminalidad por edad y sexo (tabla 05015); INE, Estadística Continua de Población: población residente por edad a 1 de enero de 2025 (tabla 56934)",
+    "url": "https://estadisticasdecriminalidad.ses.mir.es/sec/jaxiPx/files/_px/es/csv_bdsc/Datos5/l0/05015.csv_bdsc",
+    "licencia": "Reutilización libre citando al INE como fuente (aviso legal del INE); Reutilización permitida citando la fuente (aviso legal del Portal Estadístico de Criminalidad)",
+    "descargado": "2026-11-17",
+    "nota": "Victimizaciones registradas: una persona puede contar más de una vez"
+  },
+  "provincias": {
+    "fuente": "Ministerio del Interior, Portal Estadístico de Criminalidad: hechos conocidos de cibercriminalidad por provincia (tabla 05002); INE, Estadística Continua de Población: población residente por provincia a 1 de enero de 2025 (tabla 56945)",
+    "url": "https://estadisticasdecriminalidad.ses.mir.es/sec/jaxiPx/files/_px/es/csv_bdsc/Datos5/l0/05002.csv_bdsc",
+    "licencia": "Reutilización libre citando al INE como fuente (aviso legal del INE); Reutilización permitida citando la fuente (aviso legal del Portal Estadístico de Criminalidad)",
+    "descargado": "2026-11-17",
+    "nota": "Provincia donde se conoce el hecho, no necesariamente donde vive la víctima"
+  },
+  "meta": {
+    "fuente": "Ministerio del Interior (metadatos de la tabla 05001); INE, Estadística Continua de Población: población residente por provincia a 1 de enero de 2025 (tabla 56945)",
+    "url": "https://estadisticasdecriminalidad.ses.mir.es/sec/jaxiPx/files/_px/es/px/Datos5/l0/05001.px",
+    "licencia": "Reutilización libre citando al INE como fuente (aviso legal del INE); Reutilización permitida citando la fuente (aviso legal del Portal Estadístico de Criminalidad)",
+    "descargado": "2026-11-17"
+  },
+  "fuentes": {
+    "fuente": "Ministerio del Interior, Portal Estadístico de Criminalidad: hechos conocidos de cibercriminalidad por grupo penal (tabla 05001); Ministerio del Interior, Portal Estadístico de Criminalidad: hechos conocidos de cibercriminalidad por provincia (tabla 05002); Ministerio del Interior, Portal Estadístico de Criminalidad: hechos esclarecidos de cibercriminalidad (tabla 05005); Ministerio del Interior, Portal Estadístico de Criminalidad: victimizaciones de cibercriminalidad por edad y sexo (tabla 05015); INE, Estadística Continua de Población: población residente por provincia a 1 de enero de 2025 (tabla 56945); INE, Estadística Continua de Población: población residente por edad a 1 de enero de 2025 (tabla 56934)",
+    "url": "https://estadisticasdecriminalidad.ses.mir.es/sec/jaxiPx/files/_px/es/csv_bdsc/Datos5/l0/05001.csv_bdsc",
+    "licencia": "Reutilización libre citando al INE como fuente (aviso legal del INE); Reutilización permitida citando la fuente (aviso legal del Portal Estadístico de Criminalidad)",
+    "descargado": "2026-11-17",
+    "nota": "Hasta 2014 no incluye datos de Mossos d'Esquadra ni Ertzaintza: la serie se usa desde 2015. Hechos conocidos por las fuerzas de seguridad, no delitos cometidos; Provincia donde se conoce el hecho, no necesariamente donde vive la víctima; Victimizaciones registradas: una persona puede contar más de una vez"
+  }
+}
